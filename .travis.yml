@@ -1,14 +1,11 @@
 language: node_js
-node_js:
- - "node"
 addons:
  chrome: stable
 before_install:
  - npm install -g @lhci/cli@0.3.x
-install: skip
-script: echo "Skip Tesg"
-after_success:
- - lhci autorun --upload.target=temporary-public-storage
+script:
+ - npm run build
+ - lhci autorun
 deploy:
  provider: pages:git
  token: $GITHUB_TOKEN
