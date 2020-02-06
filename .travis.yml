@@ -10,9 +10,5 @@ script: echo "Skip Testing"
 after_success:
  - lhci autorun --upload.target=temporary-public-storage
 deploy:
- provider: pages
- skip_cleanup: true
- github_token: $GITHUB_TOKEN
- keep_history: true
- on:
-  branch: master
+ provider: pages:git
+ token: $GITHUB_TOKEN
