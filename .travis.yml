@@ -6,7 +6,7 @@ addons:
 before_install:
  - npm install -g @lhci/cli@0.3.x
 install: skip
-script: echo "Skip Testing"
+script: echo "Skip Tesg"
 after_success:
  - lhci autorun --upload.target=temporary-public-storage
 deploy:
