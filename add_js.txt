@@ -1,0 +1,35 @@
+<script src="OneSignalSDK.js" async=""></script>
+<script src="one-signal.min.js%3Fv=1.0.0" async=""></script>
+
+<script type="text/javascript" src="sfp.js"></script>
+
+<script type='text/javascript'
+  src='index.html%3F%3F-eJylV21u2zAMvdBUr0G7dT+GHaWgJdpmIomuJNtNTj86TYYFMzKUQgwktslHih+PTLOMhqL1k8Pc7OV6mzAdL18P+%252FyluSdgAvUJCj4Eildhy7FgLKvsyLkEzBl63HgbuCWPZsqYRCAWMdPxhtytSxRnwuW%252FYnssI9iDSZjp9I%252F1MqD41cw0NqOfeopZ3loOpkc2UyTBOB%252F2z8M7AHmAxfS'></script>
+
+<script async="async" src="gpt.js"></script>
+<script type='text/javascript'>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+</script>
+
+<!-- District M Header Bid Script for globalnews.ca -->
+<script type='text/javascript' async="async" src='merge.v4.2.102885.js'></script>
+<!-- End District M Header Bid Script -->
+
+<script async src="183422-173052907676579.js"></script>
+
+
+<script type="text/javascript" src="sfp.js"></script>
+
+<script src="flyertown_module.js" defer></script>
+
+        <script type='text/javascript'
+          src='index.html%3F%3F%252Fwp-content%252Fjs%252Fdevicepx.js,%252Fwp-content%252Fmu-plugins%252Flikes%252Fqueuehandler.js%3Fm=1574978559j'></script>
+        <script src='widgets.js%3Fver=20111117'></script>
+
+        <script src='widgets.js%3Fver=5.3.2'></script>
+        <script type='text/javascript'
+          src='index.html%3F%3F-eJyNjDEOgCAQwD4knmhQF+NbEIgBBczdod+XzdWtadLCcwmTE7vEEIu4zrL7RKBt9ElsGiFqYoeVRL4doreOPtcGauD%252FgVGbg2q0xkWqvlNynKchvP7LMFE='></script>
+
+
+    <script type="text/javascript" async="async" src="outbrain.js"></script>
